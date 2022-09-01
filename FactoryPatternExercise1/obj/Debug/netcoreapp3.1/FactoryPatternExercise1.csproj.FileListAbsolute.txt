@@ -1,0 +1,14 @@
+C:\Users\cbpat\Desktop\repos\FactoryPatternExercise1\FactoryPatternExercise1\bin\Debug\netcoreapp3.1\FactoryPatternExercise1.exe
+C:\Users\cbpat\Desktop\repos\FactoryPatternExercise1\FactoryPatternExercise1\bin\Debug\netcoreapp3.1\FactoryPatternExercise1.deps.json
+C:\Users\cbpat\Desktop\repos\FactoryPatternExercise1\FactoryPatternExercise1\bin\Debug\netcoreapp3.1\FactoryPatternExercise1.runtimeconfig.json
+C:\Users\cbpat\Desktop\repos\FactoryPatternExercise1\FactoryPatternExercise1\bin\Debug\netcoreapp3.1\FactoryPatternExercise1.runtimeconfig.dev.json
+C:\Users\cbpat\Desktop\repos\FactoryPatternExercise1\FactoryPatternExercise1\bin\Debug\netcoreapp3.1\FactoryPatternExercise1.dll
+C:\Users\cbpat\Desktop\repos\FactoryPatternExercise1\FactoryPatternExercise1\bin\Debug\netcoreapp3.1\FactoryPatternExercise1.pdb
+C:\Users\cbpat\Desktop\repos\FactoryPatternExercise1\FactoryPatternExercise1\obj\Debug\netcoreapp3.1\FactoryPatternExercise1.csproj.AssemblyReference.cache
+C:\Users\cbpat\Desktop\repos\FactoryPatternExercise1\FactoryPatternExercise1\obj\Debug\netcoreapp3.1\FactoryPatternExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbpat\Desktop\repos\FactoryPatternExercise1\FactoryPatternExercise1\obj\Debug\netcoreapp3.1\FactoryPatternExercise1.AssemblyInfoInputs.cache
+C:\Users\cbpat\Desktop\repos\FactoryPatternExercise1\FactoryPatternExercise1\obj\Debug\netcoreapp3.1\FactoryPatternExercise1.AssemblyInfo.cs
+C:\Users\cbpat\Desktop\repos\FactoryPatternExercise1\FactoryPatternExercise1\obj\Debug\netcoreapp3.1\FactoryPatternExercise1.csproj.CoreCompileInputs.cache
+C:\Users\cbpat\Desktop\repos\FactoryPatternExercise1\FactoryPatternExercise1\obj\Debug\netcoreapp3.1\FactoryPatternExercise1.dll
+C:\Users\cbpat\Desktop\repos\FactoryPatternExercise1\FactoryPatternExercise1\obj\Debug\netcoreapp3.1\FactoryPatternExercise1.pdb
+C:\Users\cbpat\Desktop\repos\FactoryPatternExercise1\FactoryPatternExercise1\obj\Debug\netcoreapp3.1\FactoryPatternExercise1.genruntimeconfig.cache
